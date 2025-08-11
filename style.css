@@ -1,4 +1,30 @@
+
+* {}
+
 body {
+    
+    margin: 0;
+    padding: 0%;
     background-color: black;
     color: whitesmoke;
+}
+
+button{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 18px;
+    background-color: aqua;
+    color: red;
+    margin-bottom: -250px;
+}
+.clase {
+    color: aqua;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    margin-top: auto;
+
 }
